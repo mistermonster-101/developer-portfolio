@@ -28,6 +28,10 @@ nav li{
 .tp{
     color: #fd6e0a;
 }
+.btn{
+    display: flex;
+    gap: 30px;
+}
 .bp{
     color: #ffffff;
     font-weight: 700;
@@ -37,6 +41,15 @@ nav li{
     height: 64px;
     border-radius: 10px;
     background-color: #fd6e0a;
+}
+.bp2{
+    height: 64px;
+    width: 160px;
+    color: #fd6e0a;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
 }
 .banner{
     display: flex;
@@ -72,7 +85,7 @@ main{
     text-align: center;
     font-weight: 700;
     font-size: 35px;
-    margin-bottom: 200px;
+    margin-bottom: 170px;
 }
 .sd{
     color: #757575;
@@ -143,4 +156,24 @@ main{
 .rb{
     margin-top: 50px;
     text-align: center;
+}
+.contect{
+    display: flex;
+    gap: 117px;
+    margin-top: 357px;
+}
+.contect .st{
+    text-align: left;
+    margin-bottom: 20px;
+}
+.contect input, textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+input{
+    height: 64px;
+    width: 461px;
+    border-radius: 5px;
 }
