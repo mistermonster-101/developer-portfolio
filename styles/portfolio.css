@@ -69,9 +69,10 @@ main{
     padding: 130px 150px;
 }
 .st{
+    text-align: center;
     font-weight: 700;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 200px;
 }
 .sd{
     color: #757575;
@@ -90,4 +91,26 @@ main{
     font-size: 20px;
     font-weight: 700;
     color: black;
+}
+.wid{
+    margin: 130px;
+}
+.sc{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+}
+.st2{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.sd2{
+    color: #757575;
 }
