@@ -114,3 +114,32 @@ main{
 .sd2{
     color: #757575;
 }
+.rc{
+    display: flex;
+}
+.rt{
+    
+}
+.ri{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.tittle{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.sub-t{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.d{
+    color: #757575;
+}
+.rb{
+    margin-top: 50px;
+    text-align: center;
+}
