@@ -177,3 +177,8 @@ input{
     width: 461px;
     border-radius: 5px;
 }
+.icon{
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+}
